@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "online-bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "IPSMP.aternos.me",
+    "port": 54743,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to indian plays",
+        "join discord https://discord.gg/hGyw3WQ2C"
       ]
     },
     "chat-log": true,
